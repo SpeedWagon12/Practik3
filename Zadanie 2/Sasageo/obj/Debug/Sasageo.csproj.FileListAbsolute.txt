@@ -1,0 +1,15 @@
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\bin\Debug\Sasageo.exe.config
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\bin\Debug\Sasageo.exe
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\bin\Debug\Sasageo.pdb
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\Sasageo.csproj.AssemblyReference.cache
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\MainWindow.g.cs
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\App.g.cs
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\Sasageo_MarkupCompile.cache
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\Sasageo_MarkupCompile.lref
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\MainWindow.baml
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\Sasageo.g.resources
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\Sasageo.Properties.Resources.resources
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\Sasageo.csproj.GenerateResource.cache
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\Sasageo.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\Sasageo.exe
+C:\Users\Programmer\source\repos\Sasageo\Sasageo\obj\Debug\Sasageo.pdb
